@@ -54,7 +54,7 @@
 
 ## 组件清单（44个控件）
 
-### ? 显示类组件（8个）
+###  显示类组件（8个）
 
 #### 1. **Gauge（仪表盘）**
 <img width="1202" height="832" alt="gauge" src="https://github.com/user-attachments/assets/5b1e877f-8610-4397-918e-8998f00a6393" />
@@ -98,7 +98,7 @@
 
 ---
 
-### ?? 控制类组件（3个）
+###  控制类组件（3个）
 
 #### 9. **SwitchButton（开关按钮）**
 <img width="1202" height="832" alt="switch_button" src="https://github.com/user-attachments/assets/b05c1aeb-dbe6-43d3-aa34-f5daf4fb015b" />
@@ -117,7 +117,7 @@
 
 ---
 
-### ?? 过程控制组件（5个）
+###  过程控制组件（5个）
 
 #### 12. **Valve（阀门）**
 <img width="1202" height="832" alt="valve_control" src="https://github.com/user-attachments/assets/d1d19002-0e9a-49d0-b0b8-dbeea52fafb4" />
@@ -165,7 +165,7 @@
 
 ---
 
-### ?? 时间导航组件（4个）
+###  时间导航组件（4个）
 
 #### 20. **AnalogClock（模拟时钟）**
 <img width="1202" height="832" alt="analog_clock" src="https://github.com/user-attachments/assets/9b3e17b9-1a81-4c2b-aba1-66ed91befdcb" />
@@ -189,7 +189,7 @@
 
 ---
 
-### ? 电气能源组件（3个）
+###  电气能源组件（3个）
 
 #### 24. **MotorController（电机控制器）**
 <img width="1202" height="832" alt="motor_control" src="https://github.com/user-attachments/assets/f3cd3190-b61e-45f2-8ad5-2b8734933b4b" />
