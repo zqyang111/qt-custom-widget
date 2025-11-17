@@ -16,8 +16,25 @@ set(CMAKE_LIBRARY_OUTPUT_DIRECTORY_RELEASE ${CMAKE_SOURCE_DIR}/run/Release)
 # Set Debug postfix
 set(CMAKE_DEBUG_POSTFIX d)
 
-# Find Qt6
-find_package(Qt6 REQUIRED COMPONENTS Core Widgets)
+# Find Qt5 or Qt6
+# Try Qt6 first, fall back to Qt5 if not found
+set(QT_MIN_VERSION "5.12")
+find_package(Qt6 QUIET COMPONENTS Core Widgets)
+if(Qt6_FOUND)
+    set(QT_VERSION_MAJOR 6)
+    set(QT_PREFIX Qt6)
+    message(STATUS "Found Qt6, using Qt6")
+else()
+    find_package(Qt5 ${QT_MIN_VERSION} REQUIRED COMPONENTS Core Widgets)
+    set(QT_VERSION_MAJOR 5)
+    set(QT_PREFIX Qt5)
+    message(STATUS "Qt6 not found, using Qt5")
+endif()
+
+# Set Qt variables for subdirectories (use CACHE to make them available in subdirectories)
+set(QT_CORE ${QT_PREFIX}::Core CACHE STRING "Qt Core library target")
+set(QT_GUI ${QT_PREFIX}::Gui CACHE STRING "Qt Gui library target")
+set(QT_WIDGETS ${QT_PREFIX}::Widgets CACHE STRING "Qt Widgets library target")
 
 # Add subdirectories for each instrument module
 # Basic display widgets
