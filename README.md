@@ -2,8 +2,8 @@
 
 **工业仪表控件库（Industrial Instrument Control Library）** 是一套专为工业控制软件开发设计的高品质Qt控件集合。包含**44个**精心设计的工业级可视化控件，涵盖显示、控制、监控、分析等多个领域，是开发工业自动化、测试测量、数据采集、过程监控等应用的理想选择。
 
-### [001 Gauge表盘控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-01%20Gauge%E8%A1%A8%E7%9B%98%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
-### [002 Thermometer 温度计控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-02%20Thermometer%E6%B8%A9%E5%BA%A6%E8%AE%A1%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
+### [第001篇｜Gauge表盘控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-01%20Gauge%E8%A1%A8%E7%9B%98%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
+### [第002篇｜Thermometer 温度计控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-02%20Thermometer%E6%B8%A9%E5%BA%A6%E8%AE%A1%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
 ---
 
 ## 核心优势
