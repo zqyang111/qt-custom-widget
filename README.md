@@ -1,7 +1,8 @@
 ## 概述  
 
 **工业仪表控件库（Industrial Instrument Control Library）** 是一套专为工业控制软件开发设计的高品质Qt控件集合。包含**44个**精心设计的工业级可视化控件，涵盖显示、控制、监控、分析等多个领域，是开发工业自动化、测试测量、数据采集、过程监控等应用的理想选择。   
-[视频演示](https://www.bilibili.com/video/BV1BEWXzWEuC/?vd_source=5b2e27c7b24e3f4c3019b687e1452345) https://www.bilibili.com/video/BV1BEWXzWEuC/?vd_source=5b2e27c7b24e3f4c3019b687e1452345
+[视频演示](https://www.bilibili.com/video/BV1BEWXzWEuC/?vd_source=5b2e27c7b24e3f4c3019b687e1452345) 
+https://www.bilibili.com/video/BV1BEWXzWEuC/?vd_source=5b2e27c7b24e3f4c3019b687e1452345
 ---
 
 ## 核心优势
