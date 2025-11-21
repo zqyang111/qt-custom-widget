@@ -1,12 +1,6 @@
 ## 概述
 
-**工业仪表控件库（Industrial Instrument Control Library）** 是一套专为工业控制软件开发设计的高品质Qt控件集合。包含**44个**精心设计的工业级可视化控件，涵盖显示、控制、监控、分析等多个领域，是开发工业自动化、测试测量、数据采集、过程监控等应用的理想选择。
-
-### [第001篇｜Gauge表盘控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-01%20Gauge%E8%A1%A8%E7%9B%98%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
-### [第002篇｜Thermometer温度计控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-02%20Thermometer%E6%B8%A9%E5%BA%A6%E8%AE%A1%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
-### [第003篇| Valve阀门控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-03%20Valve%E9%98%80%E9%97%A8%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
-### [第004篇| SwitchButton开关按钮控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-04%20SwitchButton%E5%BC%80%E5%85%B3%E6%8C%89%E9%92%AE%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
-### [第005篇| AlarmIndicator报警指示器控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-05%20AlarmIndicator%E6%8A%A5%E8%AD%A6%E6%8C%87%E7%A4%BA%E5%99%A8%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)   
+**工业仪表控件库（Industrial Instrument Control Library）** 是一套专为工业控制软件开发设计的高品质Qt控件集合。包含**44个**精心设计的工业级可视化控件，涵盖显示、控制、监控、分析等多个领域，是开发工业自动化、测试测量、数据采集、过程监控等应用的理想选择。 
 ---
 
 ## 核心优势
@@ -35,6 +29,12 @@
 - **灵活的配置**选项
 - **完善的文档**支持
 
+## 章节列表
+### [第001篇｜Gauge表盘控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-01%20Gauge%E8%A1%A8%E7%9B%98%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
+### [第002篇｜Thermometer温度计控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-02%20Thermometer%E6%B8%A9%E5%BA%A6%E8%AE%A1%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
+### [第003篇| Valve阀门控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-03%20Valve%E9%98%80%E9%97%A8%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
+### [第004篇| SwitchButton开关按钮控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-04%20SwitchButton%E5%BC%80%E5%85%B3%E6%8C%89%E9%92%AE%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
+### [第005篇| AlarmIndicator报警指示器控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-05%20AlarmIndicator%E6%8A%A5%E8%AD%A6%E6%8C%87%E7%A4%BA%E5%99%A8%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
 ---
 使用体验:链接: https://pan.baidu.com/s/1teyxAsgpbxXWCrk1DTYVGQ 提取码: ks3z 
 ## 演示截图
