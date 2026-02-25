@@ -39,6 +39,8 @@
 ### [第005篇|AlarmIndicator报警指示器控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-05%20AlarmIndicator%E6%8A%A5%E8%AD%A6%E6%8C%87%E7%A4%BA%E5%99%A8%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
 ### [第006篇|AreaChart面积图控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-06%20AreaChart%E9%9D%A2%E7%A7%AF%E5%9B%BE%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
 ### [第007篇|AnalogClock模拟时钟控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-07%20AnalogClock%E6%A8%A1%E6%8B%9F%E6%97%B6%E9%92%9F%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)  
+### [第008篇|BarGraph 柱状图控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-08%20BarGraph%E6%9F%B1%E7%8A%B6%E5%9B%BE%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)
+### [第009篇|BatteryIndicator 电池指示器控件的设计与实践](https://github.com/zqyang111/qt-custom-widget/blob/main/doc/Qt%E5%B7%A5%E4%B8%9A%E6%8E%A7%E4%BB%B6%E5%AE%9E%E6%88%98-09%20BatteryIndicator%E7%94%B5%E6%B1%A0%E6%8C%87%E7%A4%BA%E5%99%A8%E6%8E%A7%E4%BB%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)
 ---
 使用体验:链接: https://pan.baidu.com/s/1teyxAsgpbxXWCrk1DTYVGQ 提取码: ks3z 
 ## 演示截图
