@@ -621,11 +621,8 @@ A: 可以！我们提供专业的定制开发服务。根据您的行业需求�
 
  **现在下载ComponentDemo演示程序，亲自体验44个专业工业控件！**
 
- 联系我们获取正式报价和技术方案, WX: yanzq987 
-
  扫码联系：
  ![ee0e61b28ac04765fd917d304a5d2488](https://github.com/user-attachments/assets/c289569d-b6ab-4e0e-94dc-3d51d1f8d6e3)
-
 
 ---
 
